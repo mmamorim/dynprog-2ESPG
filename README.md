@@ -1,9 +1,9 @@
 <img src="/assets/teste.svg" width="100%">
 
-# 2025/02 - FIAP - Lins - NOITE (Quinta)
+# 2025/02 - FIAP - PAULISTA - MANHÃ (QUARTA) - 2ESPG
 
 ##### link deste repositório: 
-## https://github.com/mmamorim/dynprog-2025-2
+## https://github.com/mmamorim/dynprog-2ESPG
 
 
 --- 
