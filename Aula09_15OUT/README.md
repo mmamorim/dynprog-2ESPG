@@ -23,3 +23,31 @@ Dado um valor **N** e um conjunto de moedas de valores **[c₁, c₂, …, cₖ]
 ## ❓ Pergunta
 > #### ⚡ Qual a **melhor maneira** de entregar esse troco usando a menor quantidade de moedas?  
 
+---
+
+# 🗣️ Complicando...
+
+#### - 🔄 **E para entregar sempre a solução ótima? 
+
+### Como seria essa solução em python?
+
+---
+
+## Abordagem Recursiva (Força Bruta)
+
+A ideia aqui é **tentar todas as combinações possíveis** de moedas para formar o valor `N`.  
+Para cada moeda, fazemos uma chamada recursiva tentando resolver o subproblema `N - moeda`.  
+
+Esse método garante encontrar a **solução ótima**, mas pode ser extremamente ineficiente, pois recalcula subproblemas várias vezes.  
+
+### Vantagens
+- Sempre encontra a solução ótima.  
+- Conceito simples de entender: quebrar o problema em subproblemas menores.  
+
+### Desvantagens
+- Muito lento (complexidade exponencial).  
+- Não é viável para valores grandes de `N` sem otimização.  
+
+### Exemplo
+Para `N = 6` e moedas `[1, 3, 4]`:  
+O algoritmo vai testar todas as combinações possíveis de moedas até encontrar a solução mínima (neste caso: 2 moedas → `3 + 3`).  
