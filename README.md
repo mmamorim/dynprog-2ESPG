@@ -10,7 +10,8 @@
 
 Aulas Resumo
 * [Aula 02](./Aula02_28AGO/) (28/08) - Crescimento assintótico de funções
-* [Aula 07](./Aula07_02OUT/) (02/10) - Moedas (Troco) - O Retorno
+* [Aula 07](./Aula07_02OUT/) (02/10) - Moedas (Troco) 
 
 Aulas Novas
 * Aula 08 - (02/10) Conhecendo a Turma
+* [Aula 09](./Aula09_15OUT/) (15/10) - Moedas (Troco) 
