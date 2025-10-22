@@ -15,3 +15,6 @@ Aulas Resumo
 Aulas Novas
 * Aula 08 - (02/10) Conhecendo a Turma
 * [Aula 09](./Aula09_15OUT/) (15/10) - Moedas (Troco) 
+* [Aula 10](./Aula10_22OUT/) (22/10) - Moedas (Troco)
+
+**CheckPoint 5 - ✨💰 O Desafio das Moedas** - [ENUNCIADO](./CP05-Enunciado.md)
