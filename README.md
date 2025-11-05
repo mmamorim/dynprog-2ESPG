@@ -18,3 +18,5 @@ Aulas Novas
 * [Aula 10](./Aula10_22OUT/) (22/10) - Moedas (Troco)
 
 **CheckPoint 5 - ✨💰 O Desafio das Moedas** - [ENUNCIADO](./CP05-Enunciado.md)
+
+* [Aula 11](./Aula11_05NOV/) (05/11) - Problema da Mochila
