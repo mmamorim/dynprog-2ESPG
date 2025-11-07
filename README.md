@@ -20,3 +20,5 @@ Aulas Novas
 **CheckPoint 5 - ✨💰 O Desafio das Moedas** - [ENUNCIADO](./CP05-Enunciado.md)
 
 * [Aula 11](./Aula11_05NOV/) (05/11) - Problema da Mochila
+
+**CheckPoint 6 - ✨💰 O Desafio das Moedas** - [ENUNCIADO](./CP06-Enunciado.md)
